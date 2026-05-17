@@ -1,0 +1,15 @@
+========================================================================
+AI ASSISTANT COLLABORATION PROMPT LOG - EKANTIPUR SCRAPER PROJECT
+========================================================================
+
+Prompt 1 (Environment setup & discovery):
+"Help me open browser developer tools using F12 or inspector modes to locate the structural containers for Ekantipur's news feed."
+
+Prompt 2 (Handling Playwright download network timeout failures):
+"The automated browser download timed out with a code-1 network error while trying to fetch the heavy chromium zip architecture. Give me an updated script that uses my system's locally installed Google Chrome channel binaries to bypass download blocks."
+
+Prompt 3 (Data extraction refinement & scoping):
+"Update my script using Playwright sync_api to pull exactly a maximum of 7 entertainment articles. Extract the text title within the <h2> link element, the section category string, the '.author-name' text, and the structural source image URLs. Ensure the script also targets the daily cartoon section grid on the main page wrapper and formats everything nicely into output.json without ASCII encoding issues."
+========================================================================
+Practical Test Video Submission Link 
+Loom Recording URL: https://www.loom.com/share/76d946d9835d4d30b9172f1ca416afaf
